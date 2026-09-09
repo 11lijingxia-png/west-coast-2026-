@@ -36,7 +36,7 @@ Wrangler 只是部署工具，不是网页运行时依赖。
 
 单文件 HTML 可以下载后离线打开。Google 地图导航、外部网站和实时信息仍需要联网。
 必备清单勾选状态保存在各自浏览器，公开网页不会同步两人的勾选。
-
+自动发布连接测试。
 ## 官方说明
 
 - [Cloudflare Workers Git 自动发布](https://developers.cloudflare.com/workers/ci-cd/builds/)
